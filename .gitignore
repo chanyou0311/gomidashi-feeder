@@ -1,0 +1,14 @@
+.gcp_key.json
+
+prod.tfvars
+stg.tfvars
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log

@@ -1,0 +1,9 @@
+{
+  "terraform.languageServer": {
+    "enabled": true,
+    "args": []
+  },
+  "python.formatting.provider": "black",
+  "python.pipenvPath": "/Users/yu.nakamura/.local/share/virtualenvs/src-SHXL-OHx",
+  "python.pythonPath": "/Users/yu.nakamura/.local/share/virtualenvs/src-SHXL-OHx/bin/python"
+}
